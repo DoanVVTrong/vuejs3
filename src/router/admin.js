@@ -6,7 +6,7 @@ const admin = [
             {
                 path : 'users',
                 name : "admin-users",
-                component: ()=> import("../pages/admin/users/index.vue")
+                component: ()=> import("../pages/admin/users/index.vue"),
             }
         ]
     }
