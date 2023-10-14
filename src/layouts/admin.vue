@@ -1,7 +1,7 @@
 <template>
     <TheHeader />
         <div class="row">
-            <div class="col-sm-3">
+            <div class="col-sm-3 d-none d-sm-flex">
                 Slider bar
             </div>
             <div class="col-sm-9">
